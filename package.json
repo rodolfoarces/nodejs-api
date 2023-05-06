@@ -1,0 +1,25 @@
+{
+  "name": "nodejs-api",
+  "version": "0.0.1",
+  "description": "Proyecto de prueba de una API en NodeJS con express",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rodolfoarces/nodejs-api.git"
+  },
+  "keywords": [
+    "nodejs",
+    "node",
+    "api",
+    "rest"
+  ],
+  "author": "Rodolfo D. Arce S.",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/rodolfoarces/nodejs-api/issues"
+  },
+  "homepage": "https://github.com/rodolfoarces/nodejs-api#readme"
+}
